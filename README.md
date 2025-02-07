@@ -2,6 +2,32 @@
 
  <br>
 
+ <h2>🛠️ Installation Steps:</h2>
+
+<p>1. navigate to backend folder</p>
+
+```
+npm install
+```
+
+<p>2. start backend server</p>
+
+```
+node index.js
+```
+
+<p>3. navigate to frontend folder</p>
+
+```
+npm install
+```
+
+<p>4. start frontend server</p>
+
+```
+npm run dev
+```
+
  ## how I would collaborate with a teammate to improve or expand this task.
 <br>
 First, I would start by discussing the requirements, current implementation, and all possible areas for improvement. Then, I would work on a code review with my teammate to improve error handling, clean redundant code, and more.
